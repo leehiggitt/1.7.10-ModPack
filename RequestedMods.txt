@@ -12,9 +12,7 @@
 
 # -- Requested - Please paste your requested mod here
 Malisis Doors - Gareth - http://www.9minecraft.net/malisisdoors-mod/
-Extra Cells - Gareth - http://www.9minecraft.net/extracells-mod/
 StarGate Mod!!! - Gareth - http://www.9minecraft.net/gregs-sg-craft-mod/
-Sentry Mod - Gareth - http://www.9minecraft.net/sentry-mod/
 
 # -- Installed - They will be moved to here once installed in to the mod pack
 GraveStones - Lee - http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1288082-gravestone-mod-v2-9-3
@@ -25,3 +23,22 @@ Telepads - Gareth - http://www.9minecraft.net/telepads-mod/
 # -- Removed - please include notes 
 Lucky Blocks Blue - Gareth - http://www.9minecraft.net/lucky-block-blue-mod/ - Requires core code changes
 Level Up - Gareth - http://www.9minecraft.net/level-up-mod/ - buffs cause world gen issues
+
+# -- World Gen Config Changes - Ore Removals
+
+Railcraft 
+- Poor Iron Ore
+- Poor Gold Ore
+- Poor Tin Ore
+- Poor Copper Ore
+
+Industrial Craft
+- Tin Ore
+- Copper Ore
+- Lead Ore
+
+Blue Power
+- Copper Ore
+- Silver Ore
+- Ruby Ore
+- Sapphire Ore
