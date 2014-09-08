@@ -11,7 +11,6 @@
 ################################################################
 
 # -- Requested - Please paste your requested mod here
-
 Malisis Doors - Gareth - http://www.9minecraft.net/malisisdoors-mod/
 Extra Cells - Gareth - http://www.9minecraft.net/extracells-mod/
 StarGate Mod!!! - Gareth - http://www.9minecraft.net/gregs-sg-craft-mod/
@@ -24,6 +23,5 @@ Storage Drawers - Gareth - http://www.9minecraft.net/storage-drawers-mod/
 Telepads - Gareth - http://www.9minecraft.net/telepads-mod/
 
 # -- Removed - please include notes 
-
 Lucky Blocks Blue - Gareth - http://www.9minecraft.net/lucky-block-blue-mod/ - Requires core code changes
 Level Up - Gareth - http://www.9minecraft.net/level-up-mod/ - buffs cause world gen issues
